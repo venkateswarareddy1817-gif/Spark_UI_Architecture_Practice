@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,state,signup_date,customer_segment,is_active
+1,Ravi Reddy,customer001@example.com,Pune,Maharashtra,2025-01-06,VIP,True
+2,Sita Reddy,customer002@example.com,Vizag,Andhra Pradesh,2025-01-11,Premium,True
+3,Kiran Reddy,customer003@example.com,Hyderabad,Telangana,2025-01-16,Regular,True
+4,Priya Reddy,customer004@example.com,Mumbai,Maharashtra,2025-01-21,New,True
+5,Arun Reddy,customer005@example.com,Kolkata,West Bengal,2025-01-26,VIP,True
+6,Ananya Reddy,customer006@example.com,Jaipur,Rajasthan,2025-01-31,Premium,True
+7,Rahul Reddy,customer007@example.com,Chennai,Tamil Nadu,2025-02-05,Regular,False
+8,Sneha Reddy,customer008@example.com,Delhi,Delhi,2025-02-10,New,True
+9,Vikram Reddy,customer009@example.com,Coimbatore,Tamil Nadu,2025-02-15,VIP,True
+10,Meera Reddy,customer010@example.com,Bangalore,Karnataka,2025-02-20,Premium,True
+11,Akhil Reddy,customer011@example.com,Pune,Maharashtra,2025-02-25,Regular,True
+12,Divya Reddy,customer012@example.com,Vizag,Andhra Pradesh,2025-03-02,New,True
+13,Nikhil Reddy,customer013@example.com,Hyderabad,Telangana,2025-03-07,VIP,True
+14,Pooja Reddy,customer014@example.com,Mumbai,Maharashtra,2025-03-12,Premium,False
+15,Sanjay Reddy,customer015@example.com,Kolkata,West Bengal,2025-03-17,Regular,True
+16,Kavya Reddy,customer016@example.com,Jaipur,Rajasthan,2025-03-22,New,True
+17,Manoj Reddy,customer017@example.com,Chennai,Tamil Nadu,2025-03-27,VIP,True
+18,Isha Reddy,customer018@example.com,Delhi,Delhi,2025-04-01,Premium,True
+19,Varun Reddy,customer019@example.com,Coimbatore,Tamil Nadu,2025-04-06,Regular,True
+20,Neha Reddy,customer020@example.com,Bangalore,Karnataka,2025-04-11,New,True
+21,Ravi Sharma,customer021@example.com,Pune,Maharashtra,2025-04-16,VIP,False
+22,Sita Sharma,customer022@example.com,Vizag,Andhra Pradesh,2025-04-21,Premium,True
+23,Kiran Sharma,customer023@example.com,Hyderabad,Telangana,2025-04-26,Regular,True
+24,Priya Sharma,customer024@example.com,Mumbai,Maharashtra,2025-05-01,New,True
+25,Arun Sharma,customer025@example.com,Kolkata,West Bengal,2025-05-06,VIP,True
+26,Ananya Sharma,customer026@example.com,Jaipur,Rajasthan,2025-05-11,Premium,True
+27,Rahul Sharma,customer027@example.com,Chennai,Tamil Nadu,2025-05-16,Regular,True
+28,Sneha Sharma,customer028@example.com,Delhi,Delhi,2025-05-21,New,False
+29,Vikram Sharma,customer029@example.com,Coimbatore,Tamil Nadu,2025-05-26,VIP,True
+30,Meera Sharma,customer030@example.com,Bangalore,Karnataka,2025-05-31,Premium,True
+31,Akhil Sharma,customer031@example.com,Pune,Maharashtra,2025-06-05,Regular,True
+32,Divya Sharma,customer032@example.com,Vizag,Andhra Pradesh,2025-06-10,New,True
+33,Nikhil Sharma,customer033@example.com,Hyderabad,Telangana,2025-06-15,VIP,True
+34,Pooja Sharma,customer034@example.com,Mumbai,Maharashtra,2025-06-20,Premium,True
+35,Sanjay Sharma,customer035@example.com,Kolkata,West Bengal,2025-06-25,Regular,False
+36,Kavya Sharma,customer036@example.com,Jaipur,Rajasthan,2025-06-30,New,True
+37,Manoj Sharma,customer037@example.com,Chennai,Tamil Nadu,2025-07-05,VIP,True
+38,Isha Sharma,customer038@example.com,Delhi,Delhi,2025-07-10,Premium,True
+39,Varun Sharma,customer039@example.com,Coimbatore,Tamil Nadu,2025-07-15,Regular,True
+40,Neha Sharma,customer040@example.com,Bangalore,Karnataka,2025-07-20,New,True
+41,Ravi Kumar,customer041@example.com,Pune,Maharashtra,2025-07-25,VIP,True
+42,Sita Kumar,customer042@example.com,Vizag,Andhra Pradesh,2025-07-30,Premium,False
+43,Kiran Kumar,customer043@example.com,Hyderabad,Telangana,2025-08-04,Regular,True
+44,Priya Kumar,customer044@example.com,Mumbai,Maharashtra,2025-08-09,New,True
+45,Arun Kumar,customer045@example.com,Kolkata,West Bengal,2025-08-14,VIP,True
+46,Ananya Kumar,customer046@example.com,Jaipur,Rajasthan,2025-08-19,Premium,True
+47,Rahul Kumar,customer047@example.com,Chennai,Tamil Nadu,2025-08-24,Regular,True
+48,Sneha Kumar,customer048@example.com,Delhi,Delhi,2025-08-29,New,True
+49,Vikram Kumar,customer049@example.com,Coimbatore,Tamil Nadu,2025-09-03,VIP,False
+50,Meera Kumar,customer050@example.com,Bangalore,Karnataka,2025-09-08,Premium,True
+51,Akhil Kumar,customer051@example.com,Pune,Maharashtra,2025-09-13,Regular,True
+52,Divya Kumar,customer052@example.com,Vizag,Andhra Pradesh,2025-09-18,New,True
+53,Nikhil Kumar,customer053@example.com,Hyderabad,Telangana,2025-09-23,VIP,True
+54,Pooja Kumar,customer054@example.com,Mumbai,Maharashtra,2025-09-28,Premium,True
+55,Sanjay Kumar,customer055@example.com,Kolkata,West Bengal,2025-10-03,Regular,True
+56,Kavya Kumar,customer056@example.com,Jaipur,Rajasthan,2025-10-08,New,False
+57,Manoj Kumar,customer057@example.com,Chennai,Tamil Nadu,2025-10-13,VIP,True
+58,Isha Kumar,customer058@example.com,Delhi,Delhi,2025-10-18,Premium,True
+59,Varun Kumar,customer059@example.com,Coimbatore,Tamil Nadu,2025-10-23,Regular,True
+60,Neha Kumar,customer060@example.com,Bangalore,Karnataka,2025-10-28,New,True
+61,Ravi Rao,customer061@example.com,Pune,Maharashtra,2025-11-02,VIP,True
+62,Sita Rao,customer062@example.com,Vizag,Andhra Pradesh,2025-11-07,Premium,True
+63,Kiran Rao,customer063@example.com,Hyderabad,Telangana,2025-11-12,Regular,False
+64,Priya Rao,customer064@example.com,Mumbai,Maharashtra,2025-11-17,New,True
+65,Arun Rao,customer065@example.com,Kolkata,West Bengal,2025-11-22,VIP,True
+66,Ananya Rao,customer066@example.com,Jaipur,Rajasthan,2025-11-27,Premium,True
+67,Rahul Rao,customer067@example.com,Chennai,Tamil Nadu,2025-12-02,Regular,True
+68,Sneha Rao,customer068@example.com,Delhi,Delhi,2025-12-07,New,True
+69,Vikram Rao,customer069@example.com,Coimbatore,Tamil Nadu,2025-12-12,VIP,True
+70,Meera Rao,customer070@example.com,Bangalore,Karnataka,2025-12-17,Premium,False
+71,Akhil Rao,customer071@example.com,Pune,Maharashtra,2025-12-22,Regular,True
+72,Divya Rao,customer072@example.com,Vizag,Andhra Pradesh,2025-12-27,New,True
+73,Nikhil Rao,customer073@example.com,Hyderabad,Telangana,2026-01-01,VIP,True
+74,Pooja Rao,customer074@example.com,Mumbai,Maharashtra,2026-01-06,Premium,True
+75,Sanjay Rao,customer075@example.com,Kolkata,West Bengal,2026-01-11,Regular,True
+76,Kavya Rao,customer076@example.com,Jaipur,Rajasthan,2026-01-16,New,True
+77,Manoj Rao,customer077@example.com,Chennai,Tamil Nadu,2026-01-21,VIP,False
+78,Isha Rao,customer078@example.com,Delhi,Delhi,2026-01-26,Premium,True
+79,Varun Rao,customer079@example.com,Coimbatore,Tamil Nadu,2026-01-31,Regular,True
+80,Neha Rao,customer080@example.com,Bangalore,Karnataka,2026-02-05,New,True
+81,Ravi Patel,customer081@example.com,Pune,Maharashtra,2026-02-10,VIP,True
+82,Sita Patel,customer082@example.com,Vizag,Andhra Pradesh,2026-02-15,Premium,True
+83,Kiran Patel,customer083@example.com,Hyderabad,Telangana,2026-02-20,Regular,True
+84,Priya Patel,customer084@example.com,Mumbai,Maharashtra,2026-02-25,New,False
+85,Arun Patel,customer085@example.com,Kolkata,West Bengal,2026-03-02,VIP,True
+86,Ananya Patel,customer086@example.com,Jaipur,Rajasthan,2026-03-07,Premium,True
+87,Rahul Patel,customer087@example.com,Chennai,Tamil Nadu,2026-03-12,Regular,True
+88,Sneha Patel,customer088@example.com,Delhi,Delhi,2026-03-17,New,True
+89,Vikram Patel,customer089@example.com,Coimbatore,Tamil Nadu,2026-03-22,VIP,True
+90,Meera Patel,customer090@example.com,Bangalore,Karnataka,2026-03-27,Premium,True
+91,Akhil Patel,customer091@example.com,Pune,Maharashtra,2026-04-01,Regular,False
+92,Divya Patel,customer092@example.com,Vizag,Andhra Pradesh,2026-04-06,New,True
+93,Nikhil Patel,customer093@example.com,Hyderabad,Telangana,2026-04-11,VIP,True
+94,Pooja Patel,customer094@example.com,Mumbai,Maharashtra,2026-04-16,Premium,True
+95,Sanjay Patel,customer095@example.com,Kolkata,West Bengal,2026-04-21,Regular,True
+96,Kavya Patel,customer096@example.com,Jaipur,Rajasthan,2026-04-26,New,True
+97,Manoj Patel,customer097@example.com,Chennai,Tamil Nadu,2026-05-01,VIP,True
+98,Isha Patel,customer098@example.com,Delhi,Delhi,2026-05-06,Premium,False
+99,Varun Patel,customer099@example.com,Coimbatore,Tamil Nadu,2026-05-11,Regular,True
+100,Neha Patel,customer100@example.com,Bangalore,Karnataka,2026-05-16,New,True
